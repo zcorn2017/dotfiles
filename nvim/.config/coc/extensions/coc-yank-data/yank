@@ -1,0 +1,114 @@
+04ce8e38d8f242c31ef3529f36f446f2|file:///home/zcorn/.config/nvim/vimrc.vim|31|22|V|vim
+	Plug 'williamboman/mason.nvim', { 'do': ':MasonUpdate' }
+c4889616e6d0af426cd9d5c6fef276eb|file:///home/zcorn/test_dir/main.typ|20|5|V|typst
+	%show
+0001d950b31bb35d9bf168a71315c380|file:///home/zcorn/Nutstore%20Files/Nutstore/CUHKSZ/BSC6019/HWK3/HWK3.tex|1|1|V|latex
+		E_{\text{nucl|A} }= \frac{(+1)(+6)}{1.5} + \frac{(+6)(+7)}{2.0} + \frac{(+1)(+7)}{3.5}
+214d4ef73987c34c540da4975cc81dc6|file:///home/zcorn/Nutstore%20Files/Nutstore/CUHKSZ/BSC6019/HWK3/HWK3.tex|28|100|v|latex
+	astronomicalunit
+fc116eaa78ca957dbf97efff4f4c6c51|file:///home/zcorn/Nutstore%20Files/Nutstore/CUHKSZ/BSC6019/HWK3/HWK3.tex|28|100|v|latex
+	atomicmassunit
+5c1e2220e50f7d675e9ac3684b7b5516|file:///home/zcorn/Downloads/CODE/0.xyz|2|1|V|
+	./CODE/C2H4Cl2_0_degrees.gzmat
+52943d5c5c77220550de51d210647ea1|file:///home/zcorn/Nutstore%20Files/Nutstore/CUHKSZ/BSC6019/HWK3/HWK3.tex|28|1|v|latex
+		E_{\text{nucl|A} }= \frac{(+1)(+6)}{1.5} + \frac{(+6)(+7)}{2.0} + \frac{(+1)(+7)}{3.5} = \SI{27}{\astronomicalunit}
+	
+5ec325c9726994dcd027d36d7929bf9b|file:///home/zcorn/Nutstore%20Files/Nutstore/CUHKSZ/BSC6019/Proj2/Proj2.tex|14|22|v|latex
+	Homework
+3d3536177ac9118cf8506cf6e3c917d6|file:///home/zcorn/Nutstore%20Files/Nutstore/CUHKSZ/BSC6019/Proj2/Proj2.tex|1|1|V|latex
+	$\abs*$
+9b753cb5adcd01f46511e94dbc18d7f1|file:///home/zcorn/test_dir/main.typ|1|1|v|typst
+	#import "template.typ": *
+	
+	// Take a look at the file `template.typ` in the file panel
+	// to customize this template and discover how it works.
+	#show: project.with(
+	  course-id: "BSC6019",
+	  title: "Notes",
+	  authors: (
+	    (name: "ZHOU Yuming", email: "yumingzhou@link.cuhk.edu.cn", affiliation: "School of Medicine, The Chinese University of Hongkong Shenzhen"),
+	  ),
+	  date: "Mar 31, 2023",
+	)
+	
+	// We generated the example code below so you can see how
+	// your document will look. Go ahead and replace it with
+	// your own content!
+	
+	
+	
+	
+	= Quantum Chemistry
+	
+	Today's lecture is given by Professor 
+	
+	
+	== The thermodynamic description of mixtures
+	
+	
+0b6d809445320fdfd91a5bf7142806e6|file:///home/zcorn/Nutstore%20Files/Nutstore/CUHKSZ/ERG1000/reports/HWK4.tex|1|1|v|latex
+	templatehwk
+0a33d0fb5777c1f8c435e3c52f8313d1|file:///home/zcorn/Nutstore%20Files/Nutstore/CUHKSZ/ERG1000/reports/HWK4.tex|1|1|V|latex
+	\end{conclusion}
+b4ebbe5ef69098fd9291f136ee05f4ff|file:///home/zcorn/Nutstore%20Files/Nutstore/CUHKSZ/ERG1000/reports/HWK4.tex|32|1|V|latex
+	sound, but the Reis “telephon” could not transmit intelligible speech.
+ae3b5af283b61f9cfc2fc8316a14c040|file:///home/zcorn/Nutstore%20Files/Nutstore/CUHKSZ/ERG1000/reports/HWK4.tex|34|1|V|latex
+	Graham Bell, inventor of telephone, built his Bell's telephone in the late 1875 and submitted the patent on Feb 14, 1876. Then radio transmission was introduced in the 1800s.
+06a15ef5d1164d20eb943a59dec39396|file:///home/zcorn/Nutstore%20Files/Nutstore/CUHKSZ/ERG1000/reports/HWK4.tex|36|75|v|latex
+	dizzying
+3948b292641e788de7abab3785a9ea62|file:///home/zcorn/Nutstore%20Files/Nutstore/CUHKSZ/ERG1000/reports/hwk6.tex|1|1|V|latex
+	Analog/mixed-signal (AMS) VLSI design is a domain in VLSI industry that deals with the design of circuits that contain both analog and digital components1. AMS VLSI design is comparatively difficult and time-consuming because of its design complexity, competitive specifications, technology dependency, and full custom design1.
+972c97bdc47dfc8def0e74c55da0bbfd|file:///home/zcorn/Nutstore%20Files/Nutstore/CUHKSZ/ERG1000/reports/hwk6.tex|29|1433|v|latex
+	explore
+fd6099a9d7619703703d7d3cfa2c4e50|file:///home/zcorn/.config/hypr/hyprland.conf|23|1|v|conf
+	monitor=desc:RTD Display 000,preferred,0x1067,1.1
+	monitor=desc:RTD Display 000,transform,0
+61bae3382894b47d86d8f8fade5e9b89|file:///home/zcorn/typst_root/main.typ|1|1|v|typst
+	#import "template.typ": *
+	
+	// Take a look at the file `template.typ` in the file panel
+	// to customize this template and discover how it works.
+	#show: project.with(
+	  course-id: "BSC6019",
+	  title: "Notes",
+	  authors: (
+	    (name: "ZHOU Yuming", email: "yumingzhou@link.cuhk.edu.cn", affiliation: "School of Medicine, The Chinese University of Hongkong Shenzhen"),
+	  ),
+	  date: "Mar 31, 2023",
+	)
+	
+	// We generated the example code below so you can see how
+	// your document will look. Go ahead and replace it with
+	// your own content!
+	
+	
+4e0faa93cd01a78ce0286f0989d6521c|file:///home/zcorn/typst_root/main.typ|1|1|v|typst
+	#import "template.typ": *
+	
+	// Take a look at the file `template.typ` in the file panel
+	// to customize this template and discover how it works.
+	#show: project.with(
+	  course-id: "BSC6019",
+	  title: "Notes",
+	  authors: (
+	    (name: "ZHOU Yuming", email: "yumingzhou@link.cuhk.edu.cn", affiliation: "School of Medicine, The Chinese University of Hongkong Shenzhen"),
+	  ),
+	  date: "Mar 31, 2023",
+	)
+	
+	// We generated the example code below so you can see how
+	// your document will look. Go ahead and replace it with
+	// your own content!
+	
+90231b2791a9c07827b8ab264ab02f83|file:///home/zcorn/.config/coc/ultisnips/typst.snippets|30|24|V|snippets
+	// Take a look at the file `template.typ` in the file panel
+4a8eaede84b6bb07e8a97277d6db92e8|file:///home/zcorn/.config/coc/ultisnips/typst.snippets|30|24|V|snippets
+	// to customize this template and discover how it works.
+7f03fff7e83d0b25e83da1eb611d9ee7|file:///home/zcorn/.config/coc/ultisnips/typst.snippets|39|12|V|snippets
+	// We generated the example code below so you can see how
+7ae9877f0f13a49dee34b8e48d066695|file:///home/zcorn/.config/coc/ultisnips/typst.snippets|39|12|V|snippets
+	// your document will look. Go ahead and replace it with
+f44bfb4d98be0317c06f8eab6a26db34|file:///home/zcorn/.config/coc/ultisnips/typst.snippets|39|12|V|snippets
+	// your own content!
+2ade5acfb277637c65246449489a87d3|file:///home/zcorn/.config/coc/ultisnips/typst.snippets|31|15|v|snippets
+	BSC6019
